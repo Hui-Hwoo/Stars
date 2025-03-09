@@ -10,7 +10,4 @@ Three.js Project to create a starry night sky with ocean waves.
 
 ## Video
 
-<video width="600" controls>
-  <source src="./public/Video.mov" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<video width="600" src="https://github.com/user-attachments/assets/287f511b-6a79-4342-9e29-279486735275" />
